@@ -1,8 +1,8 @@
-var num = prompt ("How many stripes do you have?");
-if (num > 5) 
+var num = prompt ("Ой, тига, а скажи, а сколько у тебя полосочек?");
+if (num > 15) 
 {
-    alert("Ooooh! That's many!!");
+    alert("Оооого, как много!!");
 }
 else{
-    alert("Sure you have more!");
+    alert("Да нууу, больше же, обнови и попробуй снова!");
 }
