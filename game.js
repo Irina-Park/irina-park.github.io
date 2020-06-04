@@ -8,4 +8,4 @@ var myAdverb = prompt("Enter an adverb");
 // Only change code below this line
 var wordBlanks = "Irbis is a " + myAdjective + " " + myNoun1 + " and one day she " + myVerb + " a "+ myNoun2 + " and she " + myVerb1 + " " + myAdverb + " all day long!"; // Change this line
 // Only change code above this line
-alert(wordBlanks);
+document.write(wordBlanks);
