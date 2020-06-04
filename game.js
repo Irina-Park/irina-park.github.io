@@ -1,10 +1,11 @@
 var myNoun1 = prompt("Enter a noun");
 var myNoun2 = prompt("Enter another noun");
 var myAdjective = prompt("Enter an adjective");
-var myVerb = prompt("Enter a verb");
+var myVerb1 = prompt("Enter a verb");
+var myVerb2 = prompt("Enter another verb");
 var myAdverb = prompt("Enter an adverb");
 
 // Only change code below this line
-var wordBlanks = "JD was a smart " + myAdjective + " " + myNoun1 + " and one day he sees a " + myNoun2 + " and he " + myVerb + " " + myAdverb; // Change this line
+var wordBlanks = "Irbis is a " + myAdjective + " " + myNoun1 + " and one day he a " + myVerb + " a "+ myNoun2 + " and she " + myVerb1 + " " + myAdverb + " all day long"; // Change this line
 // Only change code above this line
 alert(wordBlanks);
